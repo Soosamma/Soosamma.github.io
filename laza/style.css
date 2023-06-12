@@ -4,7 +4,7 @@ body{
     font-family: "poppins", sans-serif;
     box-sizing: border-box;
     overflow-x: hidden;
-    height: 276rem;
+    height: 100vh;
 }
 header{
     position: fixed;
